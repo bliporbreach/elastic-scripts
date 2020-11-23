@@ -1,0 +1,4 @@
+{
+  "Cluster1": "https://cluster_id.bogus.com",
+  "Cluster2": "https://localhost:9243"
+}
